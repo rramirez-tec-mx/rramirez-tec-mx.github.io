@@ -1,0 +1,12 @@
+vti_encoding:SR|utf8-nl
+vti_timelastmodified:TR|18 Aug 2003 22:12:13 -0000
+vti_extenderversion:SR|5.0.2.2623
+vti_nosourcecontrol:SR|True
+vti_author:SR|MCDONALD\\rvramire
+vti_modifiedby:SR|MCDONALD\\rvramire
+vti_nexttolasttimemodified:TR|18 Aug 2003 22:12:14 -0000
+vti_timecreated:TR|18 Aug 2003 22:12:13 -0000
+vti_lineageid:SR|{B454C663-D2D1-4376-9AC1-1C952D8B5448}
+vti_cacheddtm:TX|18 Aug 2003 22:12:14 -0000
+vti_filesize:IR|0
+vti_backlinkinfo:VX|
